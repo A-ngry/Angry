@@ -1,0 +1,10 @@
+
+Room Number 3410 network setting projectt
+
+part 1
+- OSI 1-4 Layer 
+- device : switch, router
+
+part 2
+- OSI 5-7 Layer
+- application
