@@ -5,6 +5,15 @@ part 1
 - OSI 1-4 Layer 
 - device : switch, router
 
+2023.11.30
+Switch Model Select
+- cisco, HP, Sun .. etc
+- price : 10000 $
+
+Router Model Select
+- L3 switch
+- Router 
+
 part 2
 - OSI 5-7 Layer
 - application
