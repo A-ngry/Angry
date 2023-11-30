@@ -17,3 +17,10 @@ Router Model Select
 part 2
 - OSI 5-7 Layer
 - application
+
+2023.11.30
+
+OS Model Select
+- Wndow, LInux, Mac ... etc
+- price : 10000 $
+
